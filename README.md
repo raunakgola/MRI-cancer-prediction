@@ -5,7 +5,7 @@
 ## Features
 3D Convolutional Neural Network: Utilizes 3DConv layers to process volumetric MRI data.
 Data Preprocessing: Includes normalization, resizing, and augmentation techniques.
-Model Evaluation: Provides metrics such as accuracy, precision, recall, and F1-score.
+
 Visualization: Tools for visualizing the results, including the predicted regions of interest in MRI scans.
 ## Prerequisites
 Python 3.x
